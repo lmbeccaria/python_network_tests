@@ -1,0 +1,5 @@
+# Ignore other unneeded files.
+*.db
+doc/
+*.swp
+*~
